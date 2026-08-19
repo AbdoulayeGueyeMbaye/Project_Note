@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Model\Entity;
+
 final class RoleEntity
 {
     private int $id;

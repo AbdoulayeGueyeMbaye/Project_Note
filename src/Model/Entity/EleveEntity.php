@@ -1,5 +1,8 @@
 <?php
 
+namespace App\Model\Entity;
+
+
 final class EleveEntity
 {
     private int $id;

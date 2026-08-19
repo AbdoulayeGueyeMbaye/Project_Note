@@ -1,5 +1,8 @@
 <?php
 
+namespace App\Model\Entity;
+
+
 final class UtilisateursEntity
 {
     private int $id;
